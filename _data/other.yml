@@ -381,6 +381,13 @@ websites:
     twitter: Monster
     facebook: monster
 
+  - name: Moqups
+    url: https://moqups.com/
+    img: moqups.png
+    tfa:
+    - totp
+    doc: https://support.moqups.com/hc/en-us/articles/360018866160-Password-Security#TFAuth
+
   - name: NationBuilder
     url: https://nationbuilder.com
     img: nationbuilder.png
