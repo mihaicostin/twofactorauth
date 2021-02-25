@@ -386,7 +386,7 @@ websites:
     img: moqups.png
     tfa:
     - totp
-    doc: https://support.moqups.com/hc/en-us/articles/360018866160-Password-Security#TFAuth
+    doc: https://support.moqups.com/hc/en-us/articles/360019781980#account_2FA
 
   - name: NationBuilder
     url: https://nationbuilder.com
